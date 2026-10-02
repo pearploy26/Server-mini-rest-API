@@ -1,0 +1,13 @@
+{
+  "name": "server-workshop",
+  "version": "1.0.0",
+  "description": "To-Do List REST API Mini Project",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "dev": "node server/app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
